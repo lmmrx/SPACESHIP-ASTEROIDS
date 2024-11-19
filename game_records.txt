@@ -1,0 +1,66 @@
+Player: Unknown Player, Score: 20, Best Score: 20, Difficulty: 1, Timestamp: 2024-08-28 13:59:54
+Player: pedro, Score: 4, Best Score: 4, Difficulty: 1, Timestamp: 2024-08-28 14:00:27
+Player: rj, Score: 4, Best Score: 4, Difficulty: 2, Timestamp: 2024-08-28 14:00:36
+Player: test, Score: 0, Best Score: 0, Difficulty: medium, Timestamp: 2024-08-28 14:03:50
+Player: asdd, Score: 5, Best Score: 5, Difficulty: Medium, Timestamp: 2024-08-28 14:14:49
+Player: rj, Score: 63, Best Score: 63, Difficulty: Medium, Timestamp: 2024-08-28 14:33:11
+Player: aaaaaaaaaaaaaaaaaaaaaaaaaaa, Score: 12, Best Score: 12, Difficulty: Medium, Timestamp: 2024-08-28 16:23:42
+Player: ppp, Score: 85, Best Score: 85, Difficulty: Medium, Timestamp: 2024-08-28 16:41:03
+Player: Unknown Player, Score: 6, Best Score: 6, Difficulty: Medium, Timestamp: 2024-08-29 03:09:19
+Player: kk, Score: 96, Best Score: 96, Difficulty: Medium, Timestamp: 2024-08-29 03:13:22
+Player: 33, Score: 7, Best Score: 7, Difficulty: Medium, Timestamp: 2024-08-29 03:25:29
+Player: asdsad, Score: 11, Best Score: 11, Difficulty: Medium, Timestamp: 2024-08-29 11:57:33
+Player: asdsadsad, Score: 21, Best Score: 21, Difficulty: Medium, Timestamp: 2024-08-29 11:57:51
+Player: asdsad, Score: 5, Best Score: 5, Difficulty: Easy, Timestamp: 2024-08-29 11:59:27
+Player: asd, Score: 1, Best Score: 1, Difficulty: Medium, Timestamp: 2024-08-29 12:00:39
+Player: Unknown Player, Score: 11, Best Score: 11, Difficulty: Medium, Timestamp: 2024-08-29 12:00:51
+Player: asdsad, Score: 0, Best Score: 11, Difficulty: Medium, Timestamp: 2024-08-29 12:00:58
+Player: test, Score: 22, Best Score: 22, Difficulty: Medium, Timestamp: 2024-08-29 12:01:22
+Player: mmm, Score: 1, Best Score: 22, Difficulty: Medium, Timestamp: 2024-08-29 12:01:32
+Player: asdsad, Score: 1, Best Score: 1, Difficulty: Medium, Timestamp: 2024-08-29 12:04:33
+Player: test, Score: 18, Best Score: 18, Difficulty: Medium, Timestamp: 2024-08-29 12:04:42
+Player: asdsad, Score: 6, Best Score: 6, Difficulty: Medium, Timestamp: 2024-08-29 12:04:56
+Player: asd, Score: 0, Best Score: 0, Difficulty: Medium, Timestamp: 2024-08-29 12:07:36
+Player: Unknown Player, Score: 0, Best Score: 0, Difficulty: Medium, Timestamp: 2024-08-29 12:07:39
+Player: asd, Score: 0, Best Score: 0, Difficulty: Medium, Timestamp: 2024-08-29 12:09:31
+Player: test, Score: 33, Best Score: 33, Difficulty: Medium, Timestamp: 2024-08-29 12:10:06
+Player: test, Score: 25, Best Score: 33, Difficulty: Medium, Timestamp: 2024-08-29 12:10:22
+Player: test, Score: 0, Best Score: 0, Difficulty: Medium, Timestamp: 2024-08-29 12:11:13
+Player: awsdasd, Score: 5, Best Score: 5, Difficulty: Medium, Timestamp: 2024-08-29 12:40:27
+Player: asdsadqe13, Score: 0, Best Score: 5, Difficulty: Medium, Timestamp: 2024-08-29 12:40:39
+Player: adsa, Score: 90, Best Score: 90, Difficulty: Medium, Timestamp: 2024-08-29 13:02:35
+Player: asdsadsad, Score: 17, Best Score: 90, Difficulty: Medium, Timestamp: 2024-08-29 13:02:45
+Player: asdad, Score: 7, Best Score: 7, Difficulty: Medium, Timestamp: 2024-08-29 13:04:52
+Player: 13131, Score: 29, Best Score: 29, Difficulty: Medium, Timestamp: 2024-08-29 13:05:01
+Player: 13, Score: 53, Best Score: 53, Difficulty: Medium, Timestamp: 2024-08-29 13:05:16
+Player: 1313, Score: 1, Best Score: 53, Difficulty: Medium, Timestamp: 2024-08-29 13:05:24
+Player: 13131, Score: 185, Best Score: 185, Difficulty: Easy, Timestamp: 2024-08-29 13:06:20
+Player: asd131, Score: 142, Best Score: 185, Difficulty: Easy, Timestamp: 2024-08-29 13:07:11
+Player: 131, Score: 48, Best Score: 48, Difficulty: Medium, Timestamp: 2024-08-29 13:11:40
+Player: asdsad, Score: 19, Best Score: 19, Difficulty: Medium, Timestamp: 2024-08-29 13:23:33
+Player: 1313, Score: 15, Best Score: 15, Difficulty: Medium, Timestamp: 2024-08-29 13:26:19
+Player: 1313, Score: 100, Best Score: 100, Difficulty: Medium, Timestamp: 2024-08-29 13:26:57
+Player: Unknown Player, Score: 12, Best Score: 12, Difficulty: Medium, Timestamp: 2024-08-29 13:33:49
+Player: 1311, Score: 16, Best Score: 16, Difficulty: Medium, Timestamp: 2024-08-29 15:04:14
+Player: 1231231, Score: 30, Best Score: 30, Difficulty: Medium, Timestamp: 2024-08-29 15:04:28
+Player: asd, Score: 4, Best Score: 4, Difficulty: Medium, Timestamp: 2024-08-29 16:13:32
+Player: Unknown Player, Score: 13, Best Score: 13, Difficulty: Medium, Timestamp: 2024-08-29 16:25:55
+Player: 3213123, Score: 45, Best Score: 45, Difficulty: Medium, Timestamp: 2024-08-29 16:51:46
+Player: 123, Score: 21, Best Score: 21, Difficulty: Medium, Timestamp: 2024-08-29 16:53:41
+Player: 213213, Score: 1, Best Score: 21, Difficulty: Medium, Timestamp: 2024-08-29 16:53:53
+Player: WEQWE, Score: 3, Best Score: 3, Difficulty: Medium, Timestamp: 2024-08-29 16:57:19
+Player: asd, Score: 0, Best Score: 0, Difficulty: Medium, Timestamp: 2024-08-29 17:01:39
+Player: Unknown Player, Score: 27, Best Score: 27, Difficulty: Medium, Timestamp: 2024-08-29 11:38:48
+Player: Unknown Player, Score: 8, Best Score: 8, Difficulty: Medium, Timestamp: 2024-08-29 11:39:12
+Player: rj, Score: 51, Best Score: 51, Difficulty: Medium, Timestamp: 2024-08-29 11:41:33
+Player: Unknown Player, Score: 70, Best Score: 70, Difficulty: Medium, Timestamp: 2024-08-29 11:41:58
+Player: Unknown Player, Score: 95, Best Score: 95, Difficulty: Medium, Timestamp: 2024-08-29 14:28:51
+Player: jiown, Score: 107, Best Score: 107, Difficulty: Easy, Timestamp: 2024-08-29 18:53:44
+Player: Unknown Player, Score: 7, Best Score: 7, Difficulty: Medium, Timestamp: 2024-08-29 18:55:54
+Player: yhy, Score: 0, Best Score: 0, Difficulty: Medium, Timestamp: 2024-08-29 18:56:48
+Player: Unknown Player, Score: 5, Best Score: 5, Difficulty: Medium, Timestamp: 2024-08-29 18:57:24
+Player: Unknown Player, Score: 18, Best Score: 18, Difficulty: Hard, Timestamp: 2024-08-29 18:57:58
+Player: culito, Score: 50, Best Score: 50, Difficulty: Easy, Timestamp: 2024-08-29 19:35:39
+Player: Unknown Player, Score: 26, Best Score: 50, Difficulty: Easy, Timestamp: 2024-08-29 19:36:16
+Player: Unknown Player, Score: 3, Best Score: 50, Difficulty: Easy, Timestamp: 2024-08-29 19:36:28
+Player: Unknown Player, Score: 0, Best Score: 50, Difficulty: Easy, Timestamp: 2024-08-29 19:36:44
